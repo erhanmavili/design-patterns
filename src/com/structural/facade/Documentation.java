@@ -1,4 +1,4 @@
-package structural.facade;
+package com.structural.facade;
 
 public class Documentation {
 
